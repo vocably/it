@@ -1,0 +1,4 @@
+speak
+talk
+converse
+discuss

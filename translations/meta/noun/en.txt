@@ -1,0 +1,4 @@
+goal
+destination
+aim
+purpose

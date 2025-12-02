@@ -1,0 +1,4 @@
+vote
+grade
+vow
+pledge

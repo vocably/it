@@ -1,0 +1,4 @@
+objective
+goal
+target
+aim

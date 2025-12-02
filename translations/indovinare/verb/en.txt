@@ -1,0 +1,4 @@
+guess
+predict
+divine
+foretell

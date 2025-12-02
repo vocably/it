@@ -1,0 +1,5 @@
+character
+nature
+temperament
+letter
+type

@@ -1,0 +1,3 @@
+incomes
+earnings
+revenues

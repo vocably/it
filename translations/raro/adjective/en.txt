@@ -1,0 +1,4 @@
+rare
+uncommon
+sparse
+infrequent

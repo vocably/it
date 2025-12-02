@@ -1,0 +1,4 @@
+immediate
+instant
+prompt
+direct

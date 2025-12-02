@@ -1,0 +1,4 @@
+bind
+oblige
+restrict
+tie

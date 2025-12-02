@@ -1,0 +1,4 @@
+gossipy
+gossiping
+prying
+nosy

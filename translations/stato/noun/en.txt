@@ -1,0 +1,5 @@
+state
+condition
+status
+nation
+government

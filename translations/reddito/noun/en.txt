@@ -1,0 +1,4 @@
+income
+earnings
+revenue
+proceeds

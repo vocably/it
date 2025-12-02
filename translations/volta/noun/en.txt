@@ -1,0 +1,5 @@
+time
+turn
+occasion
+instance
+vault

@@ -1,0 +1,4 @@
+assure
+ensure
+insure
+guarantee

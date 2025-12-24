@@ -1,0 +1,5 @@
+hold
+keep
+grasp
+maintain
+support

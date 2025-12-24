@@ -1,0 +1,5 @@
+uncovered
+discovered
+exposed
+bare
+open

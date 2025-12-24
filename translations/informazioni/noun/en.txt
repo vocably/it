@@ -1,0 +1,10 @@
+information
+news
+data
+knowledge
+details
+facts
+intelligence
+report
+briefing
+notification

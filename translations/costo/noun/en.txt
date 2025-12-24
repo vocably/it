@@ -1,0 +1,7 @@
+cost
+price
+expense
+charge
+outlay
+expenditure
+sacrifice

@@ -1,0 +1,8 @@
+shelters
+repairs
+refuges
+cover
+remedies
+fixes
+havens
+asylums

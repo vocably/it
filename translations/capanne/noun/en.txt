@@ -1,0 +1,5 @@
+huts
+shacks
+cabins
+sheds
+hovels

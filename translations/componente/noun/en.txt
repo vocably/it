@@ -1,0 +1,5 @@
+component
+element
+part
+constituent
+device

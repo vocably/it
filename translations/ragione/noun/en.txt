@@ -1,0 +1,4 @@
+reason
+right
+cause
+justification

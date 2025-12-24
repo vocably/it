@@ -1,0 +1,4 @@
+discovery
+uncovered
+open
+exposed

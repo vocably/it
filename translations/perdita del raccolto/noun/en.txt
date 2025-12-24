@@ -1,0 +1,4 @@
+crop failure
+harvest loss
+yield loss
+crop loss

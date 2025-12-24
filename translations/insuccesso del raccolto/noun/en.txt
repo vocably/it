@@ -1,0 +1,4 @@
+crop failure
+harvest failure
+poor harvest
+failed harvest

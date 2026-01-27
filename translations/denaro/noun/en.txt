@@ -1,0 +1,6 @@
+money
+cash
+currency
+funds
+capital
+wealth

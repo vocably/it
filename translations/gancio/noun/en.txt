@@ -1,0 +1,5 @@
+hook
+jab
+catch
+draw
+gimmick

@@ -1,0 +1,6 @@
+tax
+duty
+fee
+levy
+charge
+assessment

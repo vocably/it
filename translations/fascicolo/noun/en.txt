@@ -1,0 +1,8 @@
+file
+folder
+issue
+booklet
+pamphlet
+fascicle
+dossier
+binder

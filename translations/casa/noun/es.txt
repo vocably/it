@@ -1,0 +1,5 @@
+casa
+hogar
+vivienda
+domicilio
+patria

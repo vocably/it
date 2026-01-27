@@ -1,0 +1,5 @@
+carrera
+trayectoria
+curso
+recorrido
+andadura

@@ -1,0 +1,7 @@
+Palast
+Gebäude
+Palazzo
+Amtsgebäude
+Wohnhaus
+Mehrfamilienhaus
+Block

@@ -1,0 +1,6 @@
+travel
+journey
+trip
+voyage
+excursion
+tour

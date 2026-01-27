@@ -1,0 +1,8 @@
+abstract
+summary
+concept
+idea
+outline
+synopsis
+epitome
+compendium

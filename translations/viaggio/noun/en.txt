@@ -1,0 +1,8 @@
+trip
+journey
+travel
+voyage
+excursion
+tour
+expedition
+odyssey

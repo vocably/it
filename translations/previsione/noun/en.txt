@@ -1,0 +1,8 @@
+forecast
+prediction
+prevision
+outlook
+projection
+anticipation
+forecasting
+foresight

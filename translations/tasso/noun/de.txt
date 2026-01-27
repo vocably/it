@@ -1,0 +1,6 @@
+Dachs
+Zinssatz
+Kurs
+Steuersatz
+Gebühr
+Eibe

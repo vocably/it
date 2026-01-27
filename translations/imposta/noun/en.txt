@@ -1,0 +1,5 @@
+tax
+duty
+levy
+shutter
+blind

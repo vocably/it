@@ -1,0 +1,4 @@
+move
+step
+action
+g e s t u r e

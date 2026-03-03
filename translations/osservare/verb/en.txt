@@ -1,0 +1,4 @@
+observe
+watch
+examine
+note

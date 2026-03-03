@@ -1,0 +1,4 @@
+half
+means
+vehicle
+environment

@@ -1,0 +1,3 @@
+proche
+voisin
+parent

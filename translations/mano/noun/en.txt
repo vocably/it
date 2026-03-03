@@ -1,0 +1,4 @@
+hand
+coat
+deal
+help

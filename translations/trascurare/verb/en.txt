@@ -1,4 +1,1 @@
-neglect
-overlook
-disregard
-ignore
+["neglect","overlook","disregard"]

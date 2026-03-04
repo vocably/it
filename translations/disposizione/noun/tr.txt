@@ -1,0 +1,1 @@
+["düzenleme","yerleştirme","emir","eğilim","ruh hali"]

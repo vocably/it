@@ -1,0 +1,1 @@
+["Anordnung","Verfügung","Regelung","Neigung","Stimmung"]

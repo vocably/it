@@ -1,0 +1,3 @@
+actual
+effective
+real

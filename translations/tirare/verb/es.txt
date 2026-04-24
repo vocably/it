@@ -1,0 +1,5 @@
+lanzar
+tirar
+dar
+respirar
+imprimir

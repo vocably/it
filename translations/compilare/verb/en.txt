@@ -1,0 +1,3 @@
+compile
+fill in
+draw up

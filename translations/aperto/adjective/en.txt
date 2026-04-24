@@ -1,0 +1,5 @@
+open
+accessible
+frank
+candid
+exposed

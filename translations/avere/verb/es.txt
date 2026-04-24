@@ -1,0 +1,4 @@
+tener
+haber
+poseer
+sentir

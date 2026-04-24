@@ -1,0 +1,3 @@
+proximity
+closeness
+nearness

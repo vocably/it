@@ -1,0 +1,5 @@
+beat
+joke
+stroke
+measure
+jest

@@ -1,0 +1,3 @@
+armario
+guardarropa
+ropero

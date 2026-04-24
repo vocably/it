@@ -1,0 +1,4 @@
+busy
+occupied
+taken
+engaged

@@ -1,0 +1,5 @@
+clog
+hoof
+pedestal
+plinth
+socket

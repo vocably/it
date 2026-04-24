@@ -1,0 +1,3 @@
+receptor
+destinatario
+radiorreceptor

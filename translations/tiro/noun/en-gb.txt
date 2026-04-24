@@ -1,0 +1,5 @@
+shot
+throw
+kick
+draft
+pull

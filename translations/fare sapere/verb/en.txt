@@ -1,0 +1,3 @@
+let know
+inform
+tell

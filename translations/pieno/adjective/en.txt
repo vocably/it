@@ -1,0 +1,4 @@
+full
+complete
+crowded
+satisfied

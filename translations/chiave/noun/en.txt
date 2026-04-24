@@ -1,0 +1,4 @@
+key
+clue
+wrench
+clef

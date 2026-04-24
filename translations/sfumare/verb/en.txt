@@ -1,0 +1,3 @@
+to fade
+to blur
+to deglaze

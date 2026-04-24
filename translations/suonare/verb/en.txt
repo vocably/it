@@ -1,0 +1,4 @@
+play
+ring
+sound
+strike

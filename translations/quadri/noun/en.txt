@@ -1,0 +1,4 @@
+paintings
+frames
+executives
+squares

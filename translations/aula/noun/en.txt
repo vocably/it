@@ -1,0 +1,3 @@
+classroom
+hall
+lecture hall

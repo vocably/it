@@ -1,0 +1,3 @@
+articulated
+jointed
+well-defined

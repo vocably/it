@@ -1,0 +1,6 @@
+point
+dot
+period
+spot
+item
+moment

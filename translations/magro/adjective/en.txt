@@ -1,0 +1,4 @@
+thin
+lean
+meager
+poor

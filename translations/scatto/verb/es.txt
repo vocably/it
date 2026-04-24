@@ -1,0 +1,5 @@
+arranque
+disparo
+fotografía
+instantánea
+acelerón

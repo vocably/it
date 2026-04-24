@@ -1,0 +1,5 @@
+tiro
+disparo
+lanzamiento
+chute
+corriente de aire

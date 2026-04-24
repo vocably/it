@@ -1,0 +1,4 @@
+disparar
+sonar
+lanzar
+dar

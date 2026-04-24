@@ -1,0 +1,4 @@
+construction
+building
+structure
+syntax

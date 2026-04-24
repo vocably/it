@@ -1,0 +1,4 @@
+mark
+score
+guard
+leave a mark

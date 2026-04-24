@@ -1,0 +1,4 @@
+tiro
+disparo
+lanzamiento
+calada

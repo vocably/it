@@ -1,0 +1,4 @@
+away
+off
+on
+by

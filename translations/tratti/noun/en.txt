@@ -1,0 +1,4 @@
+features
+traits
+stretches
+ways

@@ -1,0 +1,9 @@
+blow
+hit
+shot
+strike
+stroke
+coup
+attempt
+gulp
+bang

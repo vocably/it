@@ -1,0 +1,3 @@
+hybrid
+composite
+mixed

@@ -1,1 +1,2 @@
-["sietokyky","resilienssi"]
+sietokyky
+resilienssi

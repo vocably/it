@@ -1,1 +1,3 @@
-["katoa","oti","ki tonu"]
+katoa
+oti
+ki tonu

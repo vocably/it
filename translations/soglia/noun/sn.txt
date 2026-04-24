@@ -1,1 +1,3 @@
-["mukova","chikumbaridzo","mhedzisiro"]
+mukova
+chikumbaridzo
+mhedzisiro

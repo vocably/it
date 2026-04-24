@@ -1,1 +1,2 @@
-["persuade","cunvince"]
+persuade
+cunvince

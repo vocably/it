@@ -1,1 +1,2 @@
-["ukusan","sladak"]
+ukusan
+sladak

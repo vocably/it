@@ -1,1 +1,4 @@
-["apsvērt","uzskatīt","ievērot","apdomāt"]
+apsvērt
+uzskatīt
+ievērot
+apdomāt

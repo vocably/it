@@ -1,1 +1,3 @@
-["prag","granica","minimum"]
+prag
+granica
+minimum

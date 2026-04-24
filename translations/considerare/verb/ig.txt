@@ -1,1 +1,4 @@
-["ịtụle","ichebara echiche","ịtụgharị uche","ileba anya"]
+ịtụle
+ichebara echiche
+ịtụgharị uche
+ileba anya

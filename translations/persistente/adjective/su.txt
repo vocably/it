@@ -1,1 +1,2 @@
-["awet","kukuh"]
+awet
+kukuh

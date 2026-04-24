@@ -1,1 +1,3 @@
-["täydellinen","koko","valmis"]
+täydellinen
+koko
+valmis

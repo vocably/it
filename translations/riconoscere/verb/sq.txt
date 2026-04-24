@@ -1,1 +1,3 @@
-["njoh","pranoj","konstatoj"]
+njoh
+pranoj
+konstatoj

@@ -1,1 +1,2 @@
-["repercu siune","ecou"]
+repercu siune
+ecou

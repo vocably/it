@@ -1,1 +1,3 @@
-["komplet","fuldstændig","hel"]
+komplet
+fuldstændig
+hel

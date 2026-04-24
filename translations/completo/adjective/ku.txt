@@ -1,1 +1,3 @@
-["temam","kamil","tijî"]
+temam
+kamil
+tijî

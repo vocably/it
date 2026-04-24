@@ -1,1 +1,2 @@
-["tartós","kitartó"]
+tartós
+kitartó

@@ -1,1 +1,3 @@
-["cyfanrwydd","uniondeb","annibyniaeth"]
+cyfanrwydd
+uniondeb
+annibyniaeth

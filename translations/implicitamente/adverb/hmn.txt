@@ -1,1 +1,2 @@
-["zais cia","hauv siab"]
+zais cia
+hauv siab

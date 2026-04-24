@@ -1,1 +1,4 @@
-["breithniú","machnamh","meas","áireamh"]
+breithniú
+machnamh
+meas
+áireamh

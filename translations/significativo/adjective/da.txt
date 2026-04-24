@@ -1,1 +1,3 @@
-["betydelig","meningsfuld","sigende"]
+betydelig
+meningsfuld
+sigende

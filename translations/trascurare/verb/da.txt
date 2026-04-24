@@ -1,1 +1,3 @@
-["forsømme","negligere","overse"]
+forsømme
+negligere
+overse

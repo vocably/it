@@ -1,1 +1,3 @@
-["whakahawea","tīweka","wareware"]
+whakahawea
+tīweka
+wareware

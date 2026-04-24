@@ -1,1 +1,5 @@
-["hab","diyaar","amar","xaalad","dabeecad"]
+hab
+diyaar
+amar
+xaalad
+dabeecad

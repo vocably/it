@@ -1,1 +1,3 @@
-["bermakna","penting","ketara"]
+bermakna
+penting
+ketara

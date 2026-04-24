@@ -1,1 +1,3 @@
-["felismerni","elismerni","felderíteni"]
+felismerni
+elismerni
+felderíteni

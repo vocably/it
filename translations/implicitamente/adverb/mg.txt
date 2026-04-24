@@ -1,1 +1,2 @@
-["an-kolaka","an-tsokosoko"]
+an-kolaka
+an-tsokosoko

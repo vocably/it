@@ -1,1 +1,2 @@
-["enak","lezat"]
+enak
+lezat

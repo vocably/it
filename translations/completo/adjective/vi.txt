@@ -1,1 +1,3 @@
-["đầy đủ","hoàn thành","hết chỗ"]
+đầy đủ
+hoàn thành
+hết chỗ

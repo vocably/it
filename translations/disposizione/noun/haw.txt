@@ -1,1 +1,5 @@
-["hoʻonohonoho","kauoha","ʻano","manaʻo","kūlana"]
+hoʻonohonoho
+kauoha
+ʻano
+manaʻo
+kūlana

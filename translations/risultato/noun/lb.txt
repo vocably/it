@@ -1,1 +1,3 @@
-["Resultat","Ennstand","Auswierkung"]
+Resultat
+Ennstand
+Auswierkung

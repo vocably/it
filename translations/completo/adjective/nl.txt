@@ -1,1 +1,3 @@
-["compleet","voltooid","vol"]
+compleet
+voltooid
+vol

@@ -1,1 +1,2 @@
-["risinga","kutsungirira"]
+risinga
+kutsungirira

@@ -1,1 +1,5 @@
-["dispusizioni","ordine","rigulamentu","tendenza","umore"]
+dispusizioni
+ordine
+rigulamentu
+tendenza
+umore

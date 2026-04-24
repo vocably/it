@@ -1,1 +1,3 @@
-["potpun","cjelovit","pun"]
+potpun
+cjelovit
+pun

@@ -1,1 +1,2 @@
-["kutosha","kadiri ya kutosha"]
+kutosha
+kadiri ya kutosha

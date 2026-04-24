@@ -1,1 +1,3 @@
-["lengkep","sampurna","pinuh"]
+lengkep
+sampurna
+pinuh

@@ -1,1 +1,3 @@
-["kushtoj","i kushtoj","ia kushtoj"]
+kushtoj
+i kushtoj
+ia kushtoj

@@ -1,1 +1,2 @@
-["ljúffengur","yndislegur"]
+ljúffengur
+yndislegur

@@ -1,1 +1,3 @@
-["dédier","consacrer","vouer"]
+dédier
+consacrer
+vouer

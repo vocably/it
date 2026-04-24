@@ -1,1 +1,2 @@
-["köstlich","lecker"]
+köstlich
+lecker

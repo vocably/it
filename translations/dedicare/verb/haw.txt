@@ -1,1 +1,3 @@
-["hoʻolaʻa","hāʻawi","kapa"]
+hoʻolaʻa
+hāʻawi
+kapa

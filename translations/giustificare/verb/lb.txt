@@ -1,1 +1,3 @@
-["rechtfertegen","entschëllegen","justifiéieren"]
+rechtfertegen
+entschëllegen
+justifiéieren

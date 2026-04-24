@@ -1,1 +1,3 @@
-["kompleta","plena","finita"]
+kompleta
+plena
+finita

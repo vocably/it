@@ -1,1 +1,3 @@
-["slenkstis","riba","pragiedrulys"]
+slenkstis
+riba
+pragiedrulys

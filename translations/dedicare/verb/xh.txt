@@ -1,1 +1,3 @@
-["ukunikezela","ukunikezela ixesha","ukunikezela incwadi"]
+ukunikezela
+ukunikezela ixesha
+ukunikezela incwadi

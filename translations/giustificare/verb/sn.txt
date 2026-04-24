@@ -1,1 +1,3 @@
-["kururamisa","kupa chikonzero","kuenzanisa"]
+kururamisa
+kupa chikonzero
+kuenzanisa

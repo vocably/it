@@ -1,1 +1,2 @@
-["haraka","mara moja"]
+haraka
+mara moja

@@ -1,1 +1,2 @@
-["znatno","precej"]
+znatno
+precej

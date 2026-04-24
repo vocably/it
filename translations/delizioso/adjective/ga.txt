@@ -1,1 +1,2 @@
-["blasta","aoibhinn"]
+blasta
+aoibhinn

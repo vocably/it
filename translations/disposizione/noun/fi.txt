@@ -1,1 +1,5 @@
-["järjestely","sijoittelu","määräys","luonne","mieliala"]
+järjestely
+sijoittelu
+määräys
+luonne
+mieliala

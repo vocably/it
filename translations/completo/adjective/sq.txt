@@ -1,1 +1,3 @@
-["i plot","i gjithë","i mbushur"]
+i plot
+i gjithë
+i mbushur

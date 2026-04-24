@@ -1,1 +1,2 @@
-["gu folaichte","gu neo-fhoirmeil"]
+gu folaichte
+gu neo-fhoirmeil

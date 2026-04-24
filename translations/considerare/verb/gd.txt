@@ -1,1 +1,4 @@
-["beachdaich","smaoinich","thoir fa-near","gabh a-steach"]
+beachdaich
+smaoinich
+thoir fa-near
+gabh a-steach

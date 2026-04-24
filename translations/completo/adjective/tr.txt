@@ -1,1 +1,3 @@
-["tam","eksiksiz","dolu"]
+tam
+eksiksiz
+dolu

@@ -1,1 +1,2 @@
-["ngon","thơm ngon"]
+ngon
+thơm ngon

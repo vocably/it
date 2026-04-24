@@ -1,1 +1,3 @@
-["rozpoznać","uznać","zbadać"]
+rozpoznać
+uznać
+zbadać

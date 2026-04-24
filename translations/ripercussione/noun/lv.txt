@@ -1,1 +1,2 @@
-["atbalss","sekas"]
+atbalss
+sekas

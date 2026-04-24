@@ -1,1 +1,3 @@
-["to'liq","tugallangan","band"]
+to'liq
+tugallangan
+band

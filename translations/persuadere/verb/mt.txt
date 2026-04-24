@@ -1,1 +1,2 @@
-["tipperswadi","tikkonvinci"]
+tipperswadi
+tikkonvinci

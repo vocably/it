@@ -1,1 +1,3 @@
-["watedar","girîng","berbiçav"]
+watedar
+girîng
+berbiçav

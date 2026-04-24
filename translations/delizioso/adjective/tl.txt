@@ -1,1 +1,2 @@
-["masarap","kaaya-aya"]
+masarap
+kaaya-aya

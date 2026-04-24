@@ -1,1 +1,4 @@
-["kaaluma","arvestama","pidama","mõtlema"]
+kaaluma
+arvestama
+pidama
+mõtlema

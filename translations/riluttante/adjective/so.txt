@@ -1,1 +1,2 @@
-["cagaar","ka labalabeeya"]
+cagaar
+ka labalabeeya

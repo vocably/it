@@ -1,1 +1,3 @@
-["konplè","fini","plen"]
+konplè
+fini
+plen

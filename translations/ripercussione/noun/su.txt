@@ -1,1 +1,2 @@
-["balesan","gema"]
+balesan
+gema

@@ -1,1 +1,5 @@
-["reëling","rangskikking","bevel","aanleg","gemoedstemming"]
+reëling
+rangskikking
+bevel
+aanleg
+gemoedstemming

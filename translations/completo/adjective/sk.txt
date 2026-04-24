@@ -1,1 +1,3 @@
-["úplný","kompletný","plný"]
+úplný
+kompletný
+plný

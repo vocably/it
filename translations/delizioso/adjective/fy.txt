@@ -1,1 +1,2 @@
-["hearlik","lekker"]
+hearlik
+lekker

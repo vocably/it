@@ -1,1 +1,4 @@
-["qwalasela","cinga","thatha njenge","khumbula"]
+qwalasela
+cinga
+thatha njenge
+khumbula

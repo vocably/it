@@ -1,1 +1,4 @@
-["oorweeg","beskou","ag","reken"]
+oorweeg
+beskou
+ag
+reken

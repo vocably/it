@@ -1,1 +1,3 @@
-["muhimu","lenye maana","bayana"]
+muhimu
+lenye maana
+bayana

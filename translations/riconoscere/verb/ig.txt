@@ -1,1 +1,3 @@
-["ịmata","ịnakwere","ịleba anya"]
+ịmata
+ịnakwere
+ịleba anya

@@ -1,1 +1,3 @@
-["rozpoznať","uznať","preskúmať"]
+rozpoznať
+uznať
+preskúmať

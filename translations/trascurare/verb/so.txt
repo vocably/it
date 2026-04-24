@@ -1,1 +1,3 @@
-["dayacin","iskanafoli","dhayalsan"]
+dayacin
+iskanafoli
+dhayalsan

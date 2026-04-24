@@ -1,1 +1,5 @@
-["urongwa","gadziro","mirairo","chido","mafungiro"]
+urongwa
+gadziro
+mirairo
+chido
+mafungiro

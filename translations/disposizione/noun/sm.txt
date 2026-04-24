@@ -1,1 +1,5 @@
-["faʻatulagaga","tulaga","poloaiga","uiga","lagona"]
+faʻatulagaga
+tulaga
+poloaiga
+uiga
+lagona

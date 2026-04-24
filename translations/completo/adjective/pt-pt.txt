@@ -1,1 +1,3 @@
-["completo","inteiro","cheio"]
+completo
+inteiro
+cheio

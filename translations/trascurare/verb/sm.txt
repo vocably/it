@@ -1,1 +1,3 @@
-["leaga","faagalo","tuulafoai"]
+leaga
+faagalo
+tuulafoai

@@ -1,1 +1,2 @@
-["neastach","garbh"]
+neastach
+garbh

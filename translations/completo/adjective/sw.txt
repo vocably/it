@@ -1,1 +1,3 @@
-["kamili","nzima","imejaa"]
+kamili
+nzima
+imejaa

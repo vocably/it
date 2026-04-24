@@ -1,1 +1,3 @@
-["ystyr","arwyddocaol","pwysig"]
+ystyr
+arwyddocaol
+pwysig

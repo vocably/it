@@ -1,1 +1,2 @@
-["davamlı","təkidli"]
+davamlı
+təkidli

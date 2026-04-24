@@ -1,1 +1,3 @@
-["fa'alo","amataga","tapula'a"]
+fa'alo
+amataga
+tapula'a

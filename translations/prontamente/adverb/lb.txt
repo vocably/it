@@ -1,1 +1,2 @@
-["séier","flénk"]
+séier
+flénk

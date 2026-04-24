@@ -1,1 +1,2 @@
-["manganga","hano"]
+manganga
+hano

@@ -1,1 +1,3 @@
-["reconhecer","identificar","admitir"]
+reconhecer
+identificar
+admitir

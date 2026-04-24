@@ -1,1 +1,3 @@
-["vernoléissegen","vergiessen","ënnerschätzen"]
+vernoléissegen
+vergiessen
+ënnerschätzen

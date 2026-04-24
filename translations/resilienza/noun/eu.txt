@@ -1,1 +1,2 @@
-["erresilientzia","moldaerraztasun"]
+erresilientzia
+moldaerraztasun

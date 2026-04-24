@@ -1,1 +1,2 @@
-["gizlin","açyk aýdylmadyk"]
+gizlin
+açyk aýdylmadyk

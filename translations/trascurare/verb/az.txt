@@ -1,1 +1,3 @@
-["laqeyd yanaşmaq","əhəmiyyət verməmək","nəzərdən qaçırmaq"]
+laqeyd yanaşmaq
+əhəmiyyət verməmək
+nəzərdən qaçırmaq

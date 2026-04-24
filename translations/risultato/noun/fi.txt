@@ -1,1 +1,3 @@
-["tulos","lopputulos","vastaus"]
+tulos
+lopputulos
+vastaus

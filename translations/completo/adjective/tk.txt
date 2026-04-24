@@ -1,1 +1,3 @@
-["doly","gutarnykly","bitin"]
+doly
+gutarnykly
+bitin

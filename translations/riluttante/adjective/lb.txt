@@ -1,1 +1,2 @@
-["ongär","zréckhalend"]
+ongär
+zréckhalend

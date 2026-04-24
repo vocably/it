@@ -1,1 +1,3 @@
-["ialay","ilaan","idedicate"]
+ialay
+ilaan
+idedicate

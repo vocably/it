@@ -1,1 +1,2 @@
-["berdewam","domdar"]
+berdewam
+domdar

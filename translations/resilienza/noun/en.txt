@@ -1,1 +1,1 @@
-["resilience"]
+resilience

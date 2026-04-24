@@ -1,1 +1,2 @@
-["aʻafiaga","tali"]
+aʻafiaga
+tali

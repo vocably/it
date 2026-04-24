@@ -1,1 +1,3 @@
-["resultat","utgång","följd"]
+resultat
+utgång
+följd

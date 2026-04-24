@@ -1,1 +1,3 @@
-["résultat","score","valeur"]
+résultat
+score
+valeur

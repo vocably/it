@@ -1,1 +1,3 @@
-["eskaini","sagartu","igorri"]
+eskaini
+sagartu
+igorri

@@ -1,1 +1,3 @@
-["popoln","celoten","poln"]
+popoln
+celoten
+poln

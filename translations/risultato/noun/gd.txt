@@ -1,1 +1,3 @@
-["buaidh","toradh","àireamh"]
+buaidh
+toradh
+àireamh

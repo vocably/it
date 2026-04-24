@@ -1,1 +1,2 @@
-["ladha","kupendeza"]
+ladha
+kupendeza

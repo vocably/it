@@ -1,1 +1,2 @@
-["mai hankali","masu taka tsantsan"]
+mai hankali
+masu taka tsantsan

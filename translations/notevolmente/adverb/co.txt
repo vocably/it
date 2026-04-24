@@ -1,1 +1,2 @@
-["notevolmente","assai"]
+notevolmente
+assai

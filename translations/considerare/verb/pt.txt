@@ -1,1 +1,4 @@
-["considerar","examinar","refletir","levar em conta"]
+considerar
+examinar
+refletir
+levar em conta

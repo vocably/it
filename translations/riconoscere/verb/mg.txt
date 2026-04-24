@@ -1,1 +1,3 @@
-["mahita","mankatoa","mandinika"]
+mahita
+mankatoa
+mandinika

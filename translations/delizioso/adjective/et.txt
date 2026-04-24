@@ -1,1 +1,2 @@
-["maitsev","võluv"]
+maitsev
+võluv

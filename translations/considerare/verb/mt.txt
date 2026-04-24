@@ -1,1 +1,4 @@
-["ikkunsidra","qies","irrifletti","ħaseb"]
+ikkunsidra
+qies
+irrifletti
+ħaseb

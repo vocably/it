@@ -1,1 +1,2 @@
-["konsegwenza","riverberazzjoni"]
+konsegwenza
+riverberazzjoni

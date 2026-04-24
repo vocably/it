@@ -1,1 +1,4 @@
-["konsidere","egzamine","reflechi","pran an kont"]
+konsidere
+egzamine
+reflechi
+pran an kont

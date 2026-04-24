@@ -1,1 +1,3 @@
-["künnis","lävi","piir"]
+künnis
+lävi
+piir

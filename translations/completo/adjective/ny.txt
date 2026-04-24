@@ -1,1 +1,3 @@
-["Chokwanira","Chathunthu","Chodzaza"]
+Chokwanira
+Chathunthu
+Chodzaza

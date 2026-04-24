@@ -1,1 +1,2 @@
-["makilala","kilalanin"]
+makilala
+kilalanin

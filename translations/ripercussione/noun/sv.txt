@@ -1,1 +1,2 @@
-["konsekvens","återverkan"]
+konsekvens
+återverkan

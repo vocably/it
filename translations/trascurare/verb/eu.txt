@@ -1,1 +1,3 @@
-["utzugabea izan","ahaztu","gutxietsi"]
+utzugabea izan
+ahaztu
+gutxietsi

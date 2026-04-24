@@ -1,1 +1,2 @@
-["znatno","primjetno"]
+znatno
+primjetno

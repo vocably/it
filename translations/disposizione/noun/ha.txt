@@ -1,1 +1,5 @@
-["tsari","shirye-shirye","umarni","halin","yanayi"]
+tsari
+shirye-shirye
+umarni
+halin
+yanayi

@@ -1,1 +1,3 @@
-["complet","ple","sencer"]
+complet
+ple
+sencer

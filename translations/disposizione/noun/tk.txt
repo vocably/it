@@ -1,1 +1,5 @@
-["düzgün","yerleşiş","buýruk","höwes","ýagdaý"]
+düzgün
+yerleşiş
+buýruk
+höwes
+ýagdaý

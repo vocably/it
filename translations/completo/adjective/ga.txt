@@ -1,1 +1,3 @@
-["iomlán","críochnaithe","lán"]
+iomlán
+críochnaithe
+lán

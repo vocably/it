@@ -1,1 +1,3 @@
-["seuil","entrée","limite"]
+seuil
+entrée
+limite

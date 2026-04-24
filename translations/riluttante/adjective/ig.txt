@@ -1,1 +1,2 @@
-["na-ala azụ","na-egbu oge"]
+na-ala azụ
+na-egbu oge

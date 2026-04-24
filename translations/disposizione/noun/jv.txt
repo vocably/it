@@ -1,1 +1,5 @@
-["tata","aturan","pranatan","sikap","kahanan"]
+tata
+aturan
+pranatan
+sikap
+kahanan

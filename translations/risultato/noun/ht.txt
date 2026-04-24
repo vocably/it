@@ -1,1 +1,3 @@
-["rezilta","konsekans","nòt"]
+rezilta
+konsekans
+nòt

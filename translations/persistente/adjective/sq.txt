@@ -1,1 +1,2 @@
-["këmbëngulës","i qëndrueshëm"]
+këmbëngulës
+i qëndrueshëm

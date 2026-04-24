@@ -1,1 +1,4 @@
-["besjen","neitinke","achtje","rekkenje"]
+besjen
+neitinke
+achtje
+rekkenje

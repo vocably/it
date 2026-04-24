@@ -1,1 +1,3 @@
-["sinifikanti","importanti","espressiv"]
+sinifikanti
+importanti
+espressiv

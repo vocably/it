@@ -1,1 +1,3 @@
-["osotasun","zuzentasun","ukigabetasun"]
+osotasun
+zuzentasun
+ukigabetasun

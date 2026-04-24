@@ -1,1 +1,3 @@
-["hasil","keputusan","angka"]
+hasil
+keputusan
+angka

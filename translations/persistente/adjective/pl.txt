@@ -1,1 +1,2 @@
-["trwały","wytrwały"]
+trwały
+wytrwały

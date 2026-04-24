@@ -1,1 +1,2 @@
-["Auswirkung","Nachwirkung"]
+Auswirkung
+Nachwirkung

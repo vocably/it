@@ -1,1 +1,3 @@
-["resultat","marcador","puntuació"]
+resultat
+marcador
+puntuació

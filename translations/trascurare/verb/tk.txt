@@ -1,1 +1,3 @@
-["äsgermezlik etmek","üns bermezlik","goýbermek"]
+äsgermezlik etmek
+üns bermezlik
+goýbermek

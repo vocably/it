@@ -1,1 +1,4 @@
-["megfontol","figyelembe vesz","fontolgat","tekint"]
+megfontol
+figyelembe vesz
+fontolgat
+tekint

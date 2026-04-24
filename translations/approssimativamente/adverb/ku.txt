@@ -1,1 +1,2 @@
-["nêzîkî","texmînî"]
+nêzîkî
+texmînî

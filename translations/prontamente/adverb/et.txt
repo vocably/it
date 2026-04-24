@@ -1,1 +1,2 @@
-["koheselt","viivitamatult"]
+koheselt
+viivitamatult

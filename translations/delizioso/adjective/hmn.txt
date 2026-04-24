@@ -1,1 +1,2 @@
-["qab","ntxim hlub"]
+qab
+ntxim hlub

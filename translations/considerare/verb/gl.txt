@@ -1,1 +1,4 @@
-["considerar","examinar","reflexionar","xulgar"]
+considerar
+examinar
+reflexionar
+xulgar

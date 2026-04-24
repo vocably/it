@@ -1,1 +1,3 @@
-["herkennen","erkennen","onderzoeken"]
+herkennen
+erkennen
+onderzoeken

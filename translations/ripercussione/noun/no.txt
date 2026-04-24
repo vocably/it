@@ -1,1 +1,2 @@
-["ettervirkning","ekko"]
+ettervirkning
+ekko

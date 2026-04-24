@@ -1,1 +1,3 @@
-["aklamak","esaslandyrmak","teksti deňlemek"]
+aklamak
+esaslandyrmak
+teksti deňlemek

@@ -1,1 +1,2 @@
-["prompte","hurtigt"]
+prompte
+hurtigt

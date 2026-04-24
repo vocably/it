@@ -1,1 +1,3 @@
-["jiddedika","konsagrat","iddedika"]
+jiddedika
+konsagrat
+iddedika

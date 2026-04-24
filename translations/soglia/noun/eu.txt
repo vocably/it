@@ -1,1 +1,3 @@
-["atalase","muga","hasiera"]
+atalase
+muga
+hasiera

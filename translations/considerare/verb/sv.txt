@@ -1,1 +1,4 @@
-["överväga","betrakta","anse","beakta"]
+överväga
+betrakta
+anse
+beakta

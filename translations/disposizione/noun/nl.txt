@@ -1,1 +1,5 @@
-["regeling","indeling","beschikking","aanleg","gemoedstoestand"]
+regeling
+indeling
+beschikking
+aanleg
+gemoedstoestand

@@ -1,1 +1,4 @@
-["nganggap","ngemutan","merhatikeun","mikiran"]
+nganggap
+ngemutan
+merhatikeun
+mikiran

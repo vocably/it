@@ -1,1 +1,3 @@
-["szentel","ajánl","dedikál"]
+szentel
+ajánl
+dedikál

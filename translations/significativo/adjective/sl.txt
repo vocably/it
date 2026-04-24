@@ -1,1 +1,3 @@
-["pomemben","značilen","izrazen"]
+pomemben
+značilen
+izrazen

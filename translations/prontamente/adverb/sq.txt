@@ -1,1 +1,2 @@
-["menjëherë","shpejt"]
+menjëherë
+shpejt

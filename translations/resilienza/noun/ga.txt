@@ -1,1 +1,2 @@
-["seasmhacht","teacht aniar"]
+seasmhacht
+teacht aniar

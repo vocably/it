@@ -1,1 +1,3 @@
-["bag'ishlamoq","ato etmoq","ithof etmoq"]
+bag'ishlamoq
+ato etmoq
+ithof etmoq

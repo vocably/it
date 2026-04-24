@@ -1,1 +1,2 @@
-["xeyli","olduqca"]
+xeyli
+olduqca

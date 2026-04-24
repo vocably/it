@@ -1,1 +1,3 @@
-["penting","ngandung harti","nyoko"]
+penting
+ngandung harti
+nyoko

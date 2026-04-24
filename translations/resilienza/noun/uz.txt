@@ -1,1 +1,2 @@
-["chidam","moslashuvchanlik"]
+chidam
+moslashuvchanlik

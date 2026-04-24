@@ -1,1 +1,3 @@
-["osoa","betea","osatua"]
+osoa
+betea
+osatua

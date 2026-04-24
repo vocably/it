@@ -1,1 +1,3 @@
-["siyifikatif","enpòtan","ekspresif"]
+siyifikatif
+enpòtan
+ekspresif

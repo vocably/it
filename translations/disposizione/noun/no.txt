@@ -1,1 +1,5 @@
-["disposisjon","ordning","bestemmelse","anlegg","humør"]
+disposisjon
+ordning
+bestemmelse
+anlegg
+humør

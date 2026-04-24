@@ -1,1 +1,2 @@
-["deliciós","deliciosa"]
+deliciós
+deliciosa

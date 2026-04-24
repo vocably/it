@@ -1,1 +1,2 @@
-["notabel","ganz"]
+notabel
+ganz

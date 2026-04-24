@@ -1,1 +1,2 @@
-["nënkuptueshëm","implicitërisht"]
+nënkuptueshëm
+implicitërisht

@@ -1,1 +1,3 @@
-["tähendusrikas","märkimisväärne","väljendusrikas"]
+tähendusrikas
+märkimisväärne
+väljendusrikas

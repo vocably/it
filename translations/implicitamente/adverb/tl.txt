@@ -1,1 +1,2 @@
-["nang hindi sinasabi","nang hindi tuwiran"]
+nang hindi sinasabi
+nang hindi tuwiran

@@ -1,1 +1,2 @@
-["mangai","ngakaukore"]
+mangai
+ngakaukore

@@ -1,1 +1,5 @@
-["Uerdnung","Dispositioun","Regelung","Astel lung","Verfügung"]
+Uerdnung
+Dispositioun
+Regelung
+Astel lung
+Verfügung

@@ -1,1 +1,2 @@
-["aanhoudend","volhardend"]
+aanhoudend
+volhardend

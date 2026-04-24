@@ -1,1 +1,5 @@
-["rêveberî","rêz","ferman","meyl","rewş"]
+rêveberî
+rêz
+ferman
+meyl
+rewş

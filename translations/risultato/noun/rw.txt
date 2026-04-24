@@ -1,1 +1,3 @@
-["Igisubizo","Umwanzuro","Inyandiko"]
+Igisubizo
+Umwanzuro
+Inyandiko

@@ -1,1 +1,5 @@
-["arrangement","disposition","order","provision","mood"]
+arrangement
+disposition
+order
+provision
+mood

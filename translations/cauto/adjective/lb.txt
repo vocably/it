@@ -1,1 +1,2 @@
-["virsiichteg","prudent"]
+virsiichteg
+prudent

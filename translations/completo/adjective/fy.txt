@@ -1,1 +1,3 @@
-["kompleet","folslein","hiel"]
+kompleet
+folslein
+hiel

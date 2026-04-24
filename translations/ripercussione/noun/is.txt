@@ -1,1 +1,2 @@
-["afleiðing","endurkast"]
+afleiðing
+endurkast

@@ -1,1 +1,4 @@
-["consider","examine","reflect on","take into account"]
+consider
+examine
+reflect on
+take into account

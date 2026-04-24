@@ -1,1 +1,3 @@
-["Natiijo","Dhibco","Tiro"]
+Natiijo
+Dhibco
+Tiro

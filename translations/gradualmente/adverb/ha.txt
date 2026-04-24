@@ -1,1 +1,2 @@
-["a hankali","ka dan kadan"]
+a hankali
+ka dan kadan

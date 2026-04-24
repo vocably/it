@@ -1,1 +1,4 @@
-["ka fiirso","tixgeli","u fiirso","ka fikir"]
+ka fiirso
+tixgeli
+u fiirso
+ka fikir

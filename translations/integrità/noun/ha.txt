@@ -1,1 +1,3 @@
-["cikakken","aminci","daidaitawa"]
+cikakken
+aminci
+daidaitawa

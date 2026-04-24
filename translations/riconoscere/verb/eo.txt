@@ -1,1 +1,3 @@
-["rekoni","agnoski","ekzameni"]
+rekoni
+agnoski
+ekzameni

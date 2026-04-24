@@ -1,1 +1,5 @@
-["disposición","ordenación","orden","prescrición","ánimo"]
+disposición
+ordenación
+orden
+prescrición
+ánimo

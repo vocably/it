@@ -1,1 +1,3 @@
-["iomlanachd","ionracas","neo-bhristeadh"]
+iomlanachd
+ionracas
+neo-bhristeadh

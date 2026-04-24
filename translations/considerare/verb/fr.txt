@@ -1,1 +1,4 @@
-["considérer","examiner","réfléchir","estimer"]
+considérer
+examiner
+réfléchir
+estimer

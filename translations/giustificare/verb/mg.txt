@@ -1,1 +1,3 @@
-["manamarina","miala tsiny","mandamina"]
+manamarina
+miala tsiny
+mandamina

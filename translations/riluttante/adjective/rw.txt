@@ -1,1 +1,2 @@
-["kwanga","gutinda"]
+kwanga
+gutinda

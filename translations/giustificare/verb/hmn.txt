@@ -1,1 +1,3 @@
-["ua kom yog","pab txhawb","kho kom ncaj"]
+ua kom yog
+pab txhawb
+kho kom ncaj

@@ -1,1 +1,2 @@
-["ripercussione","rimbombo"]
+ripercussione
+rimbombo

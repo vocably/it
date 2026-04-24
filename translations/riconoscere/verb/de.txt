@@ -1,1 +1,3 @@
-["erkennen","anerkennen","untersuchen"]
+erkennen
+anerkennen
+untersuchen

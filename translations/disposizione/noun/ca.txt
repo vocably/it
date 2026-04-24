@@ -1,1 +1,5 @@
-["disposició","ordenació","col·locació","prescripció","ànim"]
+disposició
+ordenació
+col·locació
+prescripció
+ànim

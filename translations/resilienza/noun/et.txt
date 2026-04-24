@@ -1,1 +1,2 @@
-["löögikindlus","vastupanuvõime"]
+löögikindlus
+vastupanuvõime

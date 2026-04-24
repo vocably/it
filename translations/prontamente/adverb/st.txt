@@ -1,1 +1,2 @@
-["ka potlako","hang-hang"]
+ka potlako
+hang-hang

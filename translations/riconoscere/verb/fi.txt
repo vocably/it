@@ -1,1 +1,3 @@
-["tunnistaa","myöntää","tutkia"]
+tunnistaa
+myöntää
+tutkia

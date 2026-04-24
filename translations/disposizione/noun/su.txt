@@ -1,1 +1,5 @@
-["tata","aturan","paréntah","sikep","kaayaan"]
+tata
+aturan
+paréntah
+sikep
+kaayaan

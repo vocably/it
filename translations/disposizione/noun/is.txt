@@ -1,1 +1,5 @@
-["fyrirkomulag","skipulag","ráðstöfun","hneigð","skap"]
+fyrirkomulag
+skipulag
+ráðstöfun
+hneigð
+skap

@@ -1,1 +1,5 @@
-["korraldus","paigutus","käskkiri","kalle","meeleolu"]
+korraldus
+paigutus
+käskkiri
+kalle
+meeleolu

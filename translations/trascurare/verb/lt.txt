@@ -1,1 +1,3 @@
-["apleisti","užmiršti","nepaisyti"]
+apleisti
+užmiršti
+nepaisyti

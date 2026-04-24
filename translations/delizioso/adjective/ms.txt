@@ -1,1 +1,2 @@
-["lazat","menarik"]
+lazat
+menarik

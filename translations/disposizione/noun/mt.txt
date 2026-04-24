@@ -1,1 +1,5 @@
-["dispożizzjoni","arranġament","ordni","predispożizzjoni","burdata"]
+dispożizzjoni
+arranġament
+ordni
+predispożizzjoni
+burdata

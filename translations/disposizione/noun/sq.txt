@@ -1,1 +1,5 @@
-["dispozicion","rregullim","urdhër","prirje","gjendje"]
+dispozicion
+rregullim
+urdhër
+prirje
+gjendje

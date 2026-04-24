@@ -1,1 +1,2 @@
-["phello","molumo"]
+phello
+molumo

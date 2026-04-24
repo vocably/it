@@ -1,1 +1,3 @@
-["betekenisvol","significant","veelzeggend"]
+betekenisvol
+significant
+veelzeggend

@@ -1,1 +1,4 @@
-["xem xét","cân nhắc","coi","tính đến"]
+xem xét
+cân nhắc
+coi
+tính đến

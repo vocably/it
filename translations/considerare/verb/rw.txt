@@ -1,1 +1,4 @@
-["gusuzuma","gutekereza","kubara","kwita"]
+gusuzuma
+gutekereza
+kubara
+kwita

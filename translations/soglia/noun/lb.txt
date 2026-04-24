@@ -1,1 +1,3 @@
-["Schwell","Drempel","Grenz"]
+Schwell
+Drempel
+Grenz

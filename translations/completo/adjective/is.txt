@@ -1,1 +1,3 @@
-["heill","fullkominn","fullur"]
+heill
+fullkominn
+fullur

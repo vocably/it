@@ -1,1 +1,2 @@
-["prontamente","axiña"]
+prontamente
+axiña

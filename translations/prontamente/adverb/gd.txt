@@ -1,1 +1,2 @@
-["gu luath","gun dàil"]
+gu luath
+gun dàil

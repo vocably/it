@@ -1,1 +1,3 @@
-["regverdig","verskoon","belyn"]
+regverdig
+verskoon
+belyn

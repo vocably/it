@@ -1,1 +1,3 @@
-["raara","nye","dooro"]
+raara
+nye
+dooro

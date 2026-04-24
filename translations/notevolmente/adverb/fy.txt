@@ -1,1 +1,2 @@
-["oanmerklik","frijwat"]
+oanmerklik
+frijwat

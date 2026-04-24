@@ -1,1 +1,3 @@
-["dhammaystiran","dhameystiran","buuxa"]
+dhammaystiran
+dhameystiran
+buuxa

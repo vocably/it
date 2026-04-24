@@ -1,1 +1,3 @@
-["faapai","tu'uina atu","faaigoa"]
+faapai
+tu'uina atu
+faaigoa

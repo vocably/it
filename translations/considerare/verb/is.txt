@@ -1,1 +1,4 @@
-["íhuga","hugsa um","telja","taka tillit til"]
+íhuga
+hugsa um
+telja
+taka tillit til

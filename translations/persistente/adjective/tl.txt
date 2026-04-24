@@ -1,1 +1,2 @@
-["matatag","paulit-ulit"]
+matatag
+paulit-ulit

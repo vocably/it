@@ -1,1 +1,2 @@
-["msanga-msanga","mofulumira"]
+msanga-msanga
+mofulumira

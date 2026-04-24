@@ -1,1 +1,3 @@
-["naskirin","pejirandin","lêkolîn kirin"]
+naskirin
+pejirandin
+lêkolîn kirin

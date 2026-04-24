@@ -1,1 +1,3 @@
-["betydande","meningsfull","signifikant"]
+betydande
+meningsfull
+signifikant

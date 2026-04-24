@@ -1,1 +1,2 @@
-["enggal-enggal","gelis"]
+enggal-enggal
+gelis

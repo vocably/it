@@ -1,1 +1,3 @@
-["cunsacrà","dedicà","intitulà"]
+cunsacrà
+dedicà
+intitulà

@@ -1,1 +1,2 @@
-["canlyniad","atsain"]
+canlyniad
+atsain

@@ -1,1 +1,3 @@
-["rezultat","izid","dosežek"]
+rezultat
+izid
+dosežek

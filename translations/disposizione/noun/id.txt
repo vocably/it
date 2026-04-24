@@ -1,1 +1,5 @@
-["pengaturan","susunan","ketentuan","kecenderungan","suasana hati"]
+pengaturan
+susunan
+ketentuan
+kecenderungan
+suasana hati

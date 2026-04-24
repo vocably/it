@@ -1,1 +1,3 @@
-["ngaidéntifikasi","ngaku","nalungtik"]
+ngaidéntifikasi
+ngaku
+nalungtik

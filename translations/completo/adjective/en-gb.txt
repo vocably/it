@@ -1,1 +1,3 @@
-["complete","full","finished"]
+complete
+full
+finished

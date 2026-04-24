@@ -1,1 +1,3 @@
-["chofunika","chatanthauzo","chomveka"]
+chofunika
+chatanthauzo
+chomveka

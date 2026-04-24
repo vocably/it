@@ -1,1 +1,2 @@
-["blasus","hyfryd"]
+blasus
+hyfryd

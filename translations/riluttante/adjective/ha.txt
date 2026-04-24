@@ -1,1 +1,2 @@
-["mai son rai","mai son rai ba"]
+mai son rai
+mai son rai ba

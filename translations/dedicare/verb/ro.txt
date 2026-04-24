@@ -1,1 +1,3 @@
-["a dedica","a consacra","a închina"]
+a dedica
+a consacra
+a închina

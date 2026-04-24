@@ -1,1 +1,3 @@
-["lë pas dore","neglijo","nënçmoj"]
+lë pas dore
+neglijo
+nënçmoj

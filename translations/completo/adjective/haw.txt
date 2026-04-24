@@ -1,1 +1,3 @@
-["piha","pau","akoakoa"]
+piha
+pau
+akoakoa

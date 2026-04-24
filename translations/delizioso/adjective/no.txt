@@ -1,1 +1,2 @@
-["deilig","nydelig"]
+deilig
+nydelig

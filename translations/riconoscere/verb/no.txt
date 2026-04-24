@@ -1,1 +1,3 @@
-["gjenkjenne","erkjenne","rekognosere"]
+gjenkjenne
+erkjenne
+rekognosere

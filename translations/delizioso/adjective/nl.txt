@@ -1,1 +1,2 @@
-["heerlijk","lekker"]
+heerlijk
+lekker

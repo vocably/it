@@ -1,1 +1,2 @@
-["zvechinguva","zvisiri izvo chaizvo"]
+zvechinguva
+zvisiri izvo chaizvo

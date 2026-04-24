@@ -1,1 +1,4 @@
-["iwwerleeën","betruechten","halen","denken"]
+iwwerleeën
+betruechten
+halen
+denken

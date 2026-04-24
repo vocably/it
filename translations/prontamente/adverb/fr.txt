@@ -1,1 +1,2 @@
-["promptement","rapidement"]
+promptement
+rapidement

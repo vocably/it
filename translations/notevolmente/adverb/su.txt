@@ -1,1 +1,2 @@
-["kacida","pisan"]
+kacida
+pisan

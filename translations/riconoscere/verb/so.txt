@@ -1,1 +1,3 @@
-["aqoonsado","garan","ogaado"]
+aqoonsado
+garan
+ogaado

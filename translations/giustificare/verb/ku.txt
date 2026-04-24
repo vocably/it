@@ -1,1 +1,3 @@
-["rastandin","mafkirin","hevrêzkirin"]
+rastandin
+mafkirin
+hevrêzkirin

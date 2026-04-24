@@ -1,1 +1,5 @@
-["nhazi","ndokwa","iwu","omume","ọnọdụ"]
+nhazi
+ndokwa
+iwu
+omume
+ọnọdụ

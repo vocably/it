@@ -1,1 +1,4 @@
-["to consider","to examine","to reflect","to deem"]
+to consider
+to examine
+to reflect
+to deem

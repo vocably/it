@@ -1,1 +1,3 @@
-["cyflawn","llawn","cwbl"]
+cyflawn
+llawn
+cwbl

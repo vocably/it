@@ -1,1 +1,2 @@
-["dampak","gema"]
+dampak
+gema

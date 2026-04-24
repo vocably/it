@@ -1,1 +1,3 @@
-["pilnas","baigtas","užpildytas"]
+pilnas
+baigtas
+užpildytas

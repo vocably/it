@@ -1,1 +1,5 @@
-["trefniant","darpariaeth","gorchymyn","tueddiad","cyflwr"]
+trefniant
+darpariaeth
+gorchymyn
+tueddiad
+cyflwr

@@ -1,1 +1,3 @@
-["wije","tawiisd","opdrage"]
+wije
+tawiisd
+opdrage

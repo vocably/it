@@ -1,1 +1,2 @@
-["go tapa","gan mhoill"]
+go tapa
+gan mhoill

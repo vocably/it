@@ -1,1 +1,3 @@
-["posvetiti","posvećivati","nameniti"]
+posvetiti
+posvećivati
+nameniti

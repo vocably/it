@@ -1,1 +1,2 @@
-["kesan","gema"]
+kesan
+gema

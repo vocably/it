@@ -1,1 +1,2 @@
-["ricunnosce","cunnosce"]
+ricunnosce
+cunnosce

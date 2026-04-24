@@ -1,1 +1,3 @@
-["haklı çıkarmak","mazur görmek","yaslamak"]
+haklı çıkarmak
+mazur görmek
+yaslamak

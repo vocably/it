@@ -1,1 +1,4 @@
-["considerar","tenir en compte","reflexionar","jutjar"]
+considerar
+tenir en compte
+reflexionar
+jutjar

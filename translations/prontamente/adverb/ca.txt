@@ -1,1 +1,2 @@
-["ràpidament","promptament"]
+ràpidament
+promptament

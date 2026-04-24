@@ -1,1 +1,3 @@
-["etsa hore ho be le toka","fana ka mabaka","lokisa"]
+etsa hore ho be le toka
+fana ka mabaka
+lokisa

@@ -1,1 +1,2 @@
-["go mór","thar cuimse"]
+go mór
+thar cuimse

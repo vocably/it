@@ -1,1 +1,3 @@
-["reconhecer","identificar","inspecionar"]
+reconhecer
+identificar
+inspecionar

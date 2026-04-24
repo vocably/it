@@ -1,1 +1,2 @@
-["kapansin-pansin","malaki"]
+kapansin-pansin
+malaki

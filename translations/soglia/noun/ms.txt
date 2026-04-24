@@ -1,1 +1,3 @@
-["ambang","had","nilai ambang"]
+ambang
+had
+nilai ambang

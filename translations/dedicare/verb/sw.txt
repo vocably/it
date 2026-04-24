@@ -1,1 +1,3 @@
-["kutabaruku","kujitolea","kuweka wakfu"]
+kutabaruku
+kujitolea
+kuweka wakfu

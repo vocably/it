@@ -1,1 +1,2 @@
-["repercussió","eco"]
+repercussió
+eco

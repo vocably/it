@@ -1,1 +1,2 @@
-["epekto","alingawngaw"]
+epekto
+alingawngaw

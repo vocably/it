@@ -1,1 +1,3 @@
-["intégrité","honnêteté","intégrité des données"]
+intégrité
+honnêteté
+intégrité des données

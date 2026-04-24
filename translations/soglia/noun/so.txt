@@ -1,1 +1,3 @@
-["marinka","irrid","xadka"]
+marinka
+irrid
+xadka

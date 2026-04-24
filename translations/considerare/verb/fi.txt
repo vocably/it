@@ -1,1 +1,4 @@
-["harkita","ottaa huomioon","pitää jonakin","miettiä"]
+harkita
+ottaa huomioon
+pitää jonakin
+miettiä

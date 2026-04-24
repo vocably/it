@@ -1,1 +1,5 @@
-["disposition","arrangement","ordre","inclination","état d'esprit"]
+disposition
+arrangement
+ordre
+inclination
+état d'esprit

@@ -1,1 +1,3 @@
-["markverður","mikilvægur","merkingarbær"]
+markverður
+mikilvægur
+merkingarbær

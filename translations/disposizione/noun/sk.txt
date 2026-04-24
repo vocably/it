@@ -1,1 +1,5 @@
-["dispozícia","usporiadanie","rozmiestnenie","nariadenie","sklon"]
+dispozícia
+usporiadanie
+rozmiestnenie
+nariadenie
+sklon

@@ -1,1 +1,2 @@
-["misalasala","saro-kenatra"]
+misalasala
+saro-kenatra

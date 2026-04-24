@@ -1,1 +1,2 @@
-["akibat","gema"]
+akibat
+gema

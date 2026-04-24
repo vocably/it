@@ -1,1 +1,3 @@
-["widmen","weien","abonnéieren"]
+widmen
+weien
+abonnéieren

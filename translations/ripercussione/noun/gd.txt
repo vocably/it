@@ -1,1 +1,2 @@
-["buaidh","mac-talla"]
+buaidh
+mac-talla

@@ -1,1 +1,3 @@
-["anlamlı","önemli","manidar"]
+anlamlı
+önemli
+manidar

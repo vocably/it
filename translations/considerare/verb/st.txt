@@ -1,1 +1,4 @@
-["nahana","ela hloko","lekola","nahanisisa"]
+nahana
+ela hloko
+lekola
+nahanisisa

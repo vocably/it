@@ -1,1 +1,3 @@
-["terxan kirin","beخشین","پێشکەش کردن"]
+terxan kirin
+beخشین
+پێشکەش کردن

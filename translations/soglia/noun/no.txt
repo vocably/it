@@ -1,1 +1,3 @@
-["terskel","dørstokk","grense"]
+terskel
+dørstokk
+grense

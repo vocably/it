@@ -1,1 +1,3 @@
-["zuru ezu","mezuru","juputara"]
+zuru ezu
+mezuru
+juputara

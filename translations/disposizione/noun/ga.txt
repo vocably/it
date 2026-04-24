@@ -1,1 +1,5 @@
-["socrú","ordú","treoir","claonadh","giúmar"]
+socrú
+ordú
+treoir
+claonadh
+giúmar

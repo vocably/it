@@ -1,1 +1,2 @@
-["considerabil","remarcabil"]
+considerabil
+remarcabil

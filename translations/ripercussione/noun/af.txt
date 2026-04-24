@@ -1,1 +1,2 @@
-["weerslag","weerklank"]
+weerslag
+weerklank

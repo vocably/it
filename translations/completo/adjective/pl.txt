@@ -1,1 +1,3 @@
-["kompletny","całkowity","pełny"]
+kompletny
+całkowity
+pełny

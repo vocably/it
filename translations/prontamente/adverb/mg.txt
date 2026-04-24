@@ -1,1 +1,2 @@
-["haingana","avy hatrany"]
+haingana
+avy hatrany

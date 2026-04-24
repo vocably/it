@@ -1,1 +1,3 @@
-["Ọnụ ụzọ","Mmalite","Mgbachi"]
+Ọnụ ụzọ
+Mmalite
+Mgbachi

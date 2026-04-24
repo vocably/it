@@ -1,1 +1,5 @@
-["makonzedwe","dongosolo","lamulo","chikonda","mkhalidwe"]
+makonzedwe
+dongosolo
+lamulo
+chikonda
+mkhalidwe

@@ -1,1 +1,4 @@
-["nggatekake","ngeling-eling","nganggep","nimbang"]
+nggatekake
+ngeling-eling
+nganggep
+nimbang

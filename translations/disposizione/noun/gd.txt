@@ -1,1 +1,5 @@
-["òrdan","cur","suidheachadh","ullamhachd","stuamachd"]
+òrdan
+cur
+suidheachadh
+ullamhachd
+stuamachd

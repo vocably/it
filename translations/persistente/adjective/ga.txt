@@ -1,1 +1,2 @@
-["seasmhach","leanúnach"]
+seasmhach
+leanúnach

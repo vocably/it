@@ -1,1 +1,2 @@
-["khoảng chừng","xấp xỉ"]
+khoảng chừng
+xấp xỉ

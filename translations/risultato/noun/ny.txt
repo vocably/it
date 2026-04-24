@@ -1,1 +1,3 @@
-["zotsatira","chiwerengero","chivuno"]
+zotsatira
+chiwerengero
+chivuno

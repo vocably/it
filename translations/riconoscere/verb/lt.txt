@@ -1,1 +1,3 @@
-["atpažinti","pripažinti","ištirti"]
+atpažinti
+pripažinti
+ištirti

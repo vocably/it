@@ -1,1 +1,3 @@
-["bedeutend","aussagekräftig","signifikant"]
+bedeutend
+aussagekräftig
+signifikant

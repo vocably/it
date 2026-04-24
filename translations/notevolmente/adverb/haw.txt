@@ -1,1 +1,2 @@
-["kaha","nui"]
+kaha
+nui

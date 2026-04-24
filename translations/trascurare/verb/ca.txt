@@ -1,1 +1,3 @@
-["descuidar","negligir","menystenir"]
+descuidar
+negligir
+menystenir

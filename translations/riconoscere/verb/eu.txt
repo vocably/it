@@ -1,1 +1,3 @@
-["ezagutu","onartu","ikuskatu"]
+ezagutu
+onartu
+ikuskatu

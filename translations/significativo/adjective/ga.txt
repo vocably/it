@@ -1,1 +1,3 @@
-["suntasach","tábhachtach","ciallmhar"]
+suntasach
+tábhachtach
+ciallmhar

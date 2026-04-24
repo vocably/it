@@ -1,1 +1,2 @@
-["Kutsungirira","Kusimba"]
+Kutsungirira
+Kusimba

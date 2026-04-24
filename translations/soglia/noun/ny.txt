@@ -1,1 +1,3 @@
-["chiwundiro","pakhomo","malire"]
+chiwundiro
+pakhomo
+malire

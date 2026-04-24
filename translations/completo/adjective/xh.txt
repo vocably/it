@@ -1,1 +1,3 @@
-["ephelele","gcwele","lungile"]
+ephelele
+gcwele
+lungile

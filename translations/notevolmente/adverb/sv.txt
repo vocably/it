@@ -1,1 +1,2 @@
-["betydligt","avsevärt"]
+betydligt
+avsevärt

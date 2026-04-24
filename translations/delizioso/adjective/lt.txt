@@ -1,1 +1,2 @@
-["skanus","žavus"]
+skanus
+žavus

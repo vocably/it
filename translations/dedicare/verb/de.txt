@@ -1,1 +1,3 @@
-["weihen","widmen","zueignen"]
+weihen
+widmen
+zueignen

@@ -1,1 +1,3 @@
-["tabbatar","ba da hujja","daidaita"]
+tabbatar
+ba da hujja
+daidaita

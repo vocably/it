@@ -1,1 +1,4 @@
-["cunsiderà","esaminà","riflette","stimà"]
+cunsiderà
+esaminà
+riflette
+stimà

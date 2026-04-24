@@ -1,1 +1,3 @@
-["signifa","grava","elokventa"]
+signifa
+grava
+elokventa

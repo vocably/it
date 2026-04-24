@@ -1,1 +1,3 @@
-["coisrig","tiomnadh","toir"]
+coisrig
+tiomnadh
+toir

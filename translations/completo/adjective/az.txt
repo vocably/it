@@ -1,1 +1,3 @@
-["tam","dolu","bitmiş"]
+tam
+dolu
+bitmiş

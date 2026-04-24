@@ -1,1 +1,3 @@
-["significativo","relevante","expressivo"]
+significativo
+relevante
+expressivo

@@ -1,1 +1,3 @@
-["descuidar","omitir","subestimar"]
+descuidar
+omitir
+subestimar

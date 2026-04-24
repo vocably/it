@@ -1,1 +1,2 @@
-["çalt","derrew"]
+çalt
+derrew

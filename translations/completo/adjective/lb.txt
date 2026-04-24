@@ -1,1 +1,3 @@
-["komplett","fäerdeg","voll"]
+komplett
+fäerdeg
+voll

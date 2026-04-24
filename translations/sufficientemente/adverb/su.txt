@@ -1,1 +1,2 @@
-["cukup","saeutik"]
+cukup
+saeutik

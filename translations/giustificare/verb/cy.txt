@@ -1,1 +1,3 @@
-["cyfiawnhau","esgusodi","unioni"]
+cyfiawnhau
+esgusodi
+unioni

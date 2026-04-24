@@ -1,1 +1,4 @@
-["konsideri","pripensi","juĝi","atenti"]
+konsideri
+pripensi
+juĝi
+atenti

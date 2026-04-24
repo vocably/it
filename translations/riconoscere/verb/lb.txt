@@ -1,1 +1,3 @@
-["erkennen","unerkennen","erkenne"]
+erkennen
+unerkennen
+erkenne

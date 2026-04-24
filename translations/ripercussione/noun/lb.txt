@@ -1,1 +1,2 @@
-["Auswierkung","Widderhall"]
+Auswierkung
+Widderhall

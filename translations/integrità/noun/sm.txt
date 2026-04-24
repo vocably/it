@@ -1,1 +1,3 @@
-["faamaoni","atoatoa","sa'o"]
+faamaoni
+atoatoa
+sa'o

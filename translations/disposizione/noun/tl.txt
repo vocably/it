@@ -1,1 +1,5 @@
-["pagsasaayos","kaayusan","utos","hilig","kalagayan"]
+pagsasaayos
+kaayusan
+utos
+hilig
+kalagayan

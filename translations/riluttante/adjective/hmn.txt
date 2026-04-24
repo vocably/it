@@ -1,1 +1,2 @@
-["tsis xav","maj mam"]
+tsis xav
+maj mam

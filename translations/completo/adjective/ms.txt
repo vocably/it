@@ -1,1 +1,3 @@
-["lengkap","penuh","selesai"]
+lengkap
+penuh
+selesai

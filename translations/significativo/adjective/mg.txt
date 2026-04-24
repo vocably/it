@@ -1,1 +1,3 @@
-["manan-danja","lehibe","misy dikany"]
+manan-danja
+lehibe
+misy dikany

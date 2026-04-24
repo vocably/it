@@ -1,1 +1,3 @@
-["iloa","talia","suʻesuʻe"]
+iloa
+talia
+suʻesuʻe

@@ -1,1 +1,3 @@
-["taua","mautinoa","faailoga"]
+taua
+mautinoa
+faailoga

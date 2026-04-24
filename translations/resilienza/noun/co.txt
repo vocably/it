@@ -1,1 +1,2 @@
-["risilienza","capacità di ripresa"]
+risilienza
+capacità di ripresa

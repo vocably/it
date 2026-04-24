@@ -1,1 +1,2 @@
-["minnufih","malajr"]
+minnufih
+malajr

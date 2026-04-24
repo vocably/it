@@ -1,1 +1,2 @@
-["zotsatira","kubweza"]
+zotsatira
+kubweza

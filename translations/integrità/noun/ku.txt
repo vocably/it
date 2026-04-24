@@ -1,1 +1,3 @@
-["yekitî","rastgoî","durustî"]
+yekitî
+rastgoî
+durustî

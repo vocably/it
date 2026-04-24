@@ -1,1 +1,2 @@
-["drogallta","leisceamhail"]
+drogallta
+leisceamhail

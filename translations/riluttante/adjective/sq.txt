@@ -1,1 +1,2 @@
-["ngurrues","hequrazi"]
+ngurrues
+hequrazi

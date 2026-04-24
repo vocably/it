@@ -1,1 +1,2 @@
-["berehala","azkar"]
+berehala
+azkar

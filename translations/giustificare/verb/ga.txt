@@ -1,1 +1,3 @@
-["fíoraigh","tabhair údar","comhfhreagair"]
+fíoraigh
+tabhair údar
+comhfhreagair

@@ -1,1 +1,3 @@
-["značajan","smislen","indikativan"]
+značajan
+smislen
+indikativan

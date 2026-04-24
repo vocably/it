@@ -1,1 +1,2 @@
-["banget","nemen"]
+banget
+nemen

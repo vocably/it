@@ -1,1 +1,5 @@
-["mpangilio","utaratibu","agizo","mwelekeo","hali"]
+mpangilio
+utaratibu
+agizo
+mwelekeo
+hali

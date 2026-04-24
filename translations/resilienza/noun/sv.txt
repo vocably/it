@@ -1,1 +1,2 @@
-["resiliens","motståndskraft"]
+resiliens
+motståndskraft

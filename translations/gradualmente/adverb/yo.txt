@@ -1,1 +1,7 @@
-["di\ngba\ndigba","di\ndi\ne\ndie"]
+di
+gba
+digba
+di
+di
+e
+die

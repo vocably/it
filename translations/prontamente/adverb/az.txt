@@ -1,1 +1,2 @@
-["cəld","tez"]
+cəld
+tez

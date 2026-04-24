@@ -1,1 +1,2 @@
-["pyszny","wyśmienity"]
+pyszny
+wyśmienity

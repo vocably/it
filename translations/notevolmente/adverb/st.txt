@@ -1,1 +1,2 @@
-["haholo","ka ho hlakileng"]
+haholo
+ka ho hlakileng

@@ -1,1 +1,5 @@
-["ulungiselelo","ilungiselelo","umyalelo","isimo","ukuthambekela"]
+ulungiselelo
+ilungiselelo
+umyalelo
+isimo
+ukuthambekela

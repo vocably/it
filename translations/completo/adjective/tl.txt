@@ -1,1 +1,3 @@
-["kumpleto","buo","puno"]
+kumpleto
+buo
+puno

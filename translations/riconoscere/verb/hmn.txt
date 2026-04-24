@@ -1,1 +1,3 @@
-["paub","lees","tshawb"]
+paub
+lees
+tshawb

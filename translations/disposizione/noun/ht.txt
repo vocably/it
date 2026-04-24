@@ -1,1 +1,5 @@
-["dispozisyon","aranjman","òd","lachas","atitid"]
+dispozisyon
+aranjman
+òd
+lachas
+atitid

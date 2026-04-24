@@ -1,1 +1,6 @@
-["raspolaganje","raspored","odredba","sklonost","raspolo\nja"]
+raspolaganje
+raspored
+odredba
+sklonost
+raspolo
+ja

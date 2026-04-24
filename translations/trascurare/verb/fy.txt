@@ -1,1 +1,3 @@
-["fersoargje","negearje","ferwaarleaze"]
+fersoargje
+negearje
+ferwaarleaze

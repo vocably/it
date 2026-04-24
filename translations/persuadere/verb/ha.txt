@@ -1,1 +1,2 @@
-["shawo kan","lallashi"]
+shawo kan
+lallashi

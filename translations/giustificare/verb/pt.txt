@@ -1,1 +1,3 @@
-["justificar","justificar-se","alinhar"]
+justificar
+justificar-se
+alinhar

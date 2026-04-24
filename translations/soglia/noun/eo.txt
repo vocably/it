@@ -1,1 +1,3 @@
-["sojlo","limo","prahistoria"]
+sojlo
+limo
+prahistoria

@@ -1,1 +1,3 @@
-["binkey","destpêk","sînor"]
+binkey
+destpêk
+sînor

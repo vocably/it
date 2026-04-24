@@ -1,1 +1,3 @@
-["hoʻopono","kala","hoʻopololei"]
+hoʻopono
+kala
+hoʻopololei

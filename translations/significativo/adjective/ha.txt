@@ -1,1 +1,3 @@
-["mai muhimmanci","mai ma'ana","mai nuna"]
+mai muhimmanci
+mai ma'ana
+mai nuna

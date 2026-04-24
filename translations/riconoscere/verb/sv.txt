@@ -1,1 +1,3 @@
-["känna igen","erkänna","rekognoscera"]
+känna igen
+erkänna
+rekognoscera

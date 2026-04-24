@@ -1,1 +1,2 @@
-["önemli ölçüde","oldukça"]
+önemli ölçüde
+oldukça

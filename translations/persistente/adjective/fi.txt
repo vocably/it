@@ -1,1 +1,2 @@
-["pysyvä","sitkeä"]
+pysyvä
+sitkeä

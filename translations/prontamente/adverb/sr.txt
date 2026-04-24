@@ -1,1 +1,2 @@
-["brzo","odmah"]
+brzo
+odmah

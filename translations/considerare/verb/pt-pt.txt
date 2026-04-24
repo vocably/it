@@ -1,1 +1,4 @@
-["considerar","ponderar","refletir","ter em conta"]
+considerar
+ponderar
+refletir
+ter em conta

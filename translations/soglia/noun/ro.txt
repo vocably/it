@@ -1,1 +1,3 @@
-["prag","limită","prag de sensibilitate"]
+prag
+limită
+prag de sensibilitate

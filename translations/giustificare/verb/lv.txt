@@ -1,1 +1,3 @@
-["attaisnot","pamato","izlīdzina"]
+attaisnot
+pamato
+izlīdzina

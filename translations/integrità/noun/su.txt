@@ -1,1 +1,3 @@
-["gembleng","jujur","utuh"]
+gembleng
+jujur
+utuh

@@ -1,1 +1,3 @@
-["zasvětit","věnovat","dedikovat"]
+zasvětit
+věnovat
+dedikovat

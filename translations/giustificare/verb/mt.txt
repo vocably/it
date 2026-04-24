@@ -1,1 +1,3 @@
-["tiġġustifika","skuża","allinja"]
+tiġġustifika
+skuża
+allinja

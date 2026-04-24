@@ -1,1 +1,5 @@
-["dispoziție","aranjament","ordine","predispoziție","stare"]
+dispoziție
+aranjament
+ordine
+predispoziție
+stare

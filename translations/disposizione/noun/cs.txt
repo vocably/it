@@ -1,1 +1,5 @@
-["dispozice","uspořádání","nařízení","sklon","nálada"]
+dispozice
+uspořádání
+nařízení
+sklon
+nálada

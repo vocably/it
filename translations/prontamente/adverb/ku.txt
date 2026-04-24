@@ -1,1 +1,2 @@
-["bi lez","yekser"]
+bi lez
+yekser

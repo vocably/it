@@ -1,1 +1,2 @@
-["nokkurn veginn","svona sirka"]
+nokkurn veginn
+svona sirka

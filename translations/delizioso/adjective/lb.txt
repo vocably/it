@@ -1,1 +1,2 @@
-["lecker","wonnerbar"]
+lecker
+wonnerbar

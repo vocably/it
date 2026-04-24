@@ -1,1 +1,2 @@
-["bongusta","ĉarma"]
+bongusta
+ĉarma

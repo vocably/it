@@ -1,1 +1,3 @@
-["chinoshamisa","chinokosha","chinechirevo"]
+chinoshamisa
+chinokosha
+chinechirevo

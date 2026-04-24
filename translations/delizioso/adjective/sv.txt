@@ -1,1 +1,2 @@
-["läcker","utsökt"]
+läcker
+utsökt

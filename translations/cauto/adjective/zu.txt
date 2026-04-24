@@ -1,1 +1,2 @@
-["o qaphele","o hlakaniphile"]
+o qaphele
+o hlakaniphile

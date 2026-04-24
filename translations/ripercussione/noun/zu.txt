@@ -1,1 +1,2 @@
-["umphumela","isimo"]
+umphumela
+isimo

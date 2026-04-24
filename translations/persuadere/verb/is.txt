@@ -1,1 +1,2 @@
-["telja","yfirtala"]
+telja
+yfirtala

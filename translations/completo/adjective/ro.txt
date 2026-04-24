@@ -1,1 +1,3 @@
-["complet","plin","întreg"]
+complet
+plin
+întreg

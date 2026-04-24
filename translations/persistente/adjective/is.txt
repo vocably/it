@@ -1,1 +1,2 @@
-["viðvarandi","þrálátur"]
+viðvarandi
+þrálátur

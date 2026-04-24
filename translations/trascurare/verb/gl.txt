@@ -1,1 +1,3 @@
-["desatender","descuidar","neglixir"]
+desatender
+descuidar
+neglixir

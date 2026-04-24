@@ -1,1 +1,2 @@
-["zvakareva","zvakavanzika"]
+zvakareva
+zvakavanzika

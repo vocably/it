@@ -1,1 +1,5 @@
-["antolamendu","xedapen","kokapen","joera","gogo-aldarte"]
+antolamendu
+xedapen
+kokapen
+joera
+gogo-aldarte

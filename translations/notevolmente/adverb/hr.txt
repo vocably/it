@@ -1,1 +1,2 @@
-["znatno","osjetno"]
+znatno
+osjetno

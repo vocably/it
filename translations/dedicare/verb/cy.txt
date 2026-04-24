@@ -1,1 +1,3 @@
-["cysegru","neilltuo","enwi"]
+cysegru
+neilltuo
+enwi

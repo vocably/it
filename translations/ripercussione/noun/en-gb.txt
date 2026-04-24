@@ -1,1 +1,2 @@
-["repercussion","echo"]
+repercussion
+echo

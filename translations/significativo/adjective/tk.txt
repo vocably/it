@@ -1,1 +1,3 @@
-["ähmiýetli","manyly","belli"]
+ähmiýetli
+manyly
+belli

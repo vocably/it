@@ -1,1 +1,2 @@
-["mai-dawwama","mai-auri"]
+mai-dawwama
+mai-auri

@@ -1,1 +1,3 @@
-["ʻike","hoʻomaopopo","ʻimi"]
+ʻike
+hoʻomaopopo
+ʻimi

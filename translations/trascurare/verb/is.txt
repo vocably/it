@@ -1,1 +1,3 @@
-["vanrækja","hirða ekki um","gleyma"]
+vanrækja
+hirða ekki um
+gleyma

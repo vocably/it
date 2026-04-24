@@ -1,1 +1,3 @@
-["atpazīt","atzīt","izpētīt"]
+atpazīt
+atzīt
+izpētīt

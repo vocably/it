@@ -1,1 +1,3 @@
-["verwaarlozen","nalaten","onderschatten"]
+verwaarlozen
+nalaten
+onderschatten

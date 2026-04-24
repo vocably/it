@@ -1,1 +1,3 @@
-["tundma","tunnistama","uurima"]
+tundma
+tunnistama
+uurima

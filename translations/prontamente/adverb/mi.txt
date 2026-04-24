@@ -1,1 +1,2 @@
-["wawe","hōmiromiro"]
+wawe
+hōmiromiro

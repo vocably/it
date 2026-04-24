@@ -1,1 +1,3 @@
-["a recunoaște","a identifica","a examina"]
+a recunoaște
+a identifica
+a examina

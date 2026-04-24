@@ -1,1 +1,3 @@
-["prag","kufi","pragu"]
+prag
+kufi
+pragu

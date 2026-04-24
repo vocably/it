@@ -1,1 +1,2 @@
-["fa'auiga","fa'atatau"]
+fa'auiga
+fa'atatau

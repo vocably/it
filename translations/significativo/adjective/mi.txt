@@ -1,1 +1,3 @@
-["whai tikanga","hirahira","hira"]
+whai tikanga
+hirahira
+hira

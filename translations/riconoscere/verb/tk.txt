@@ -1,1 +1,3 @@
-["tanymak","ykwrar etmek","barlamak"]
+tanymak
+ykwrar etmek
+barlamak

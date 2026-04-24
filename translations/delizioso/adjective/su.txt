@@ -1,1 +1,2 @@
-["ngeunah","nikmat"]
+ngeunah
+nikmat

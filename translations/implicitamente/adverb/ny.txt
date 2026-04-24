@@ -1,1 +1,2 @@
-["mobisa","mwakabisira"]
+mobisa
+mwakabisira

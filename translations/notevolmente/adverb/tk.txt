@@ -1,1 +1,2 @@
-["epesli","belli-bir"]
+epesli
+belli-bir

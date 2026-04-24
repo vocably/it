@@ -1,1 +1,3 @@
-["dearmad a dhèanamh air","fàgail air chùl","dì-meas a dhèanamh air"]
+dearmad a dhèanamh air
+fàgail air chùl
+dì-meas a dhèanamh air

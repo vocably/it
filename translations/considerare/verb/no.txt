@@ -1,1 +1,4 @@
-["vurdere","betrakte","overveie","ta hensyn til"]
+vurdere
+betrakte
+overveie
+ta hensyn til

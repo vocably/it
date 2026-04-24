@@ -1,1 +1,3 @@
-["botšepehi","ho phethahala","ho se fetohe"]
+botšepehi
+ho phethahala
+ho se fetohe

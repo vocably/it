@@ -1,1 +1,3 @@
-["làn","coileanta","iomlan"]
+làn
+coileanta
+iomlan

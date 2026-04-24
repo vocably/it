@@ -1,1 +1,4 @@
-["overveje","betragte","anse","tage hensyn til"]
+overveje
+betragte
+anse
+tage hensyn til

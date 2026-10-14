@@ -1,0 +1,3 @@
+district
+quarter
+rural area

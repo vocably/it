@@ -1,0 +1,3 @@
+enemy
+hostile
+adverse

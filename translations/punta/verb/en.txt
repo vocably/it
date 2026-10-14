@@ -1,0 +1,4 @@
+points
+aims
+bets
+pricks

@@ -1,0 +1,3 @@
+shopping
+expense
+groceries

@@ -1,0 +1,3 @@
+to double
+to redouble
+to duplicate

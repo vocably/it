@@ -1,0 +1,4 @@
+space
+room
+gap
+interval

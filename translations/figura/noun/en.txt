@@ -1,0 +1,4 @@
+figure
+shape
+person
+image

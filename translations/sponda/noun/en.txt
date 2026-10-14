@@ -1,0 +1,4 @@
+bank
+side
+cushion
+rail

@@ -1,0 +1,4 @@
+rare
+sparse
+thin
+infrequent

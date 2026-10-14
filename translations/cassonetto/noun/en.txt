@@ -1,0 +1,3 @@
+dumpster
+bin
+shutter box

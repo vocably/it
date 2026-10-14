@@ -1,0 +1,4 @@
+caliber
+gauge
+bore
+quality

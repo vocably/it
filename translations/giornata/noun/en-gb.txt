@@ -1,0 +1,4 @@
+day
+daytime
+working day
+24 hours

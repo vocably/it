@@ -1,0 +1,3 @@
+border
+confine
+be adjacent to

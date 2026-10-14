@@ -1,0 +1,4 @@
+station
+stop
+depot
+post

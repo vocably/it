@@ -1,0 +1,5 @@
+smooth
+straight
+plain
+neat
+easy

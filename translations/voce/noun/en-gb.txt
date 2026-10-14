@@ -1,0 +1,6 @@
+voice
+entry
+item
+word
+rumour
+part

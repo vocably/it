@@ -1,0 +1,4 @@
+faculty
+right
+power
+ability

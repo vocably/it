@@ -1,0 +1,5 @@
+go down
+be swallowed
+be accepted
+fall
+collapse

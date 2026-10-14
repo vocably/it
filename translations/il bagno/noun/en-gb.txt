@@ -1,0 +1,4 @@
+bathroom
+bath
+toilet
+washroom

@@ -1,0 +1,3 @@
+hit
+guess right
+get right

@@ -1,0 +1,4 @@
+family
+household
+clan
+mob

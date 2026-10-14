@@ -1,0 +1,5 @@
+position
+location
+place
+posture
+stance

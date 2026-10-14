@@ -1,0 +1,5 @@
+to dub
+to lap
+to double
+to round
+to repeat

@@ -1,0 +1,4 @@
+to board
+to embark
+to lodge
+to plank

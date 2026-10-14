@@ -1,0 +1,4 @@
+print
+publish
+imprint
+stamp

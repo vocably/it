@@ -1,0 +1,4 @@
+current
+stream
+trend
+flow

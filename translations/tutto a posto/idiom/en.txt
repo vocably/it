@@ -1,0 +1,3 @@
+all clear
+all good
+everything's fine

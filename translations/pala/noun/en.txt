@@ -1,0 +1,5 @@
+shovel
+blade
+paddle
+racket
+bayonet

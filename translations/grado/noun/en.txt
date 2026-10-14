@@ -1,0 +1,4 @@
+degree
+grade
+level
+rank

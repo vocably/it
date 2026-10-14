@@ -1,0 +1,5 @@
+cover
+coverage
+roof
+blanket
+shelter

@@ -1,0 +1,4 @@
+center
+downtown
+shopping center
+research center

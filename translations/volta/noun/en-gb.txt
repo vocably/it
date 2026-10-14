@@ -1,0 +1,8 @@
+time
+turn
+vault
+bend
+occasion
+arch
+dome
+bout

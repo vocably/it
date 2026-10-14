@@ -1,0 +1,4 @@
+paper
+card
+map
+chart

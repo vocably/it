@@ -1,0 +1,5 @@
+magazines
+journals
+reviews
+you review
+you revise

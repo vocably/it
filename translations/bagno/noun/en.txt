@@ -1,0 +1,4 @@
+bathroom
+bath
+restroom
+lavatory

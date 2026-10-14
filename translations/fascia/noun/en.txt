@@ -1,0 +1,4 @@
+band
+strip
+belt
+sash

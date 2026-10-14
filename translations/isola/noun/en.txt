@@ -1,0 +1,3 @@
+island
+block
+pedestrian zone

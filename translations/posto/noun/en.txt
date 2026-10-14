@@ -1,0 +1,4 @@
+place
+spot
+position
+seat

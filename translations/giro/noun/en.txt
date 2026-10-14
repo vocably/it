@@ -1,0 +1,6 @@
+turn
+tour
+walk
+ride
+circle
+round

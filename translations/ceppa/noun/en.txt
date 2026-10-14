@@ -1,0 +1,4 @@
+stump
+rootstock
+stock
+bush

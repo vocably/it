@@ -1,0 +1,4 @@
+stamp
+tax
+mark
+bun

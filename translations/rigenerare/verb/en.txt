@@ -1,0 +1,4 @@
+regenerate
+rebuild
+restore
+renew

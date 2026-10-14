@@ -1,0 +1,4 @@
+empty
+flat
+discharged
+unloaded

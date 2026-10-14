@@ -1,0 +1,4 @@
+subject
+individual
+person
+topic

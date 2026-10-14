@@ -1,0 +1,4 @@
+imposes
+requires
+enforces
+dictates

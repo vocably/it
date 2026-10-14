@@ -1,0 +1,4 @@
+race
+breed
+kind
+ray

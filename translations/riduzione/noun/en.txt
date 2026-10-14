@@ -1,0 +1,5 @@
+reduction
+decrease
+discount
+cut
+abridgment

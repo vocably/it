@@ -1,0 +1,4 @@
+scale
+stairs
+ladder
+fish scale
